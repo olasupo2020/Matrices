@@ -7,11 +7,11 @@ import java.util.Scanner;
  *
  */
 /*
-public class App 
+public class App
 {
     public static void main( String[] args ) {
     
-    	    int i, j, k;
+    	    int i, j, k; //indexes
     	    int[][] A = new int[2][2];
     	    int[][] B = new int[2][2];
     	    int[][] C = new int [2][2];
